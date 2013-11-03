@@ -11,6 +11,7 @@
 @interface ViewController ()
 // Just an example addition
 // and another
+// and more
 @end
 
 @implementation ViewController
